@@ -26,11 +26,5 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg" title="Android" alt="Android" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg" title="Arduino" alt="Arduino" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-line-wordmark.svg" title="Composer" alt="Composer" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" title="PS" alt="PS" width="40" height="40"/>&nbsp;
 </div>
-
----
-
-### :fire: My Stats:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=knowsbetter&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
