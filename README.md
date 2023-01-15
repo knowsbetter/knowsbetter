@@ -19,7 +19,10 @@
 ---
 
 ### :artificial_satellite: About me:
-- Creator
+- Programming
+- Electrinics and Robotics
+- Music
+- 3D printing
 
 ### :hammer_and_wrench: Languages and Tools:
 <div>
